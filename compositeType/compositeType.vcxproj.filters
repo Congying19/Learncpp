@@ -24,5 +24,14 @@
     <ClCompile Include="3.string类字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.共用体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.枚举.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
