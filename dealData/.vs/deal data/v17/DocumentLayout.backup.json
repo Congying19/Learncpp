@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\deal data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\6.\u6D6E\u70B9\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:6.\u6D6E\u70B9\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\5.const\u9650\u5B9A\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:5.const\u9650\u5B9A\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\4.\u5B57\u7B26\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:4.\u5B57\u7B26\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\3.\u6574\u578B\u5B57\u9762\u503C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:3.\u6574\u578B\u5B57\u9762\u503C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|D:\\cpp.learn\\deal data\\1.\u6574\u578B\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3832C967-D89C-4979-AFF6-EE2E298451CE}|deal data.vcxproj|solutionrelative:1.\u6574\u578B\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp",
+              "RelativeDocumentMoniker": "7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp",
+              "RelativeToolTip": "7.\u7B97\u672F\u8FD0\u7B97\u7B26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T02:44:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.\u6D6E\u70B9\u6570.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\6.\u6D6E\u70B9\u6570.cpp",
+              "RelativeDocumentMoniker": "6.\u6D6E\u70B9\u6570.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\6.\u6D6E\u70B9\u6570.cpp",
+              "RelativeToolTip": "6.\u6D6E\u70B9\u6570.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T02:13:40.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5.const\u9650\u5B9A\u7B26.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\5.const\u9650\u5B9A\u7B26.cpp",
+              "RelativeDocumentMoniker": "5.const\u9650\u5B9A\u7B26.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\5.const\u9650\u5B9A\u7B26.cpp",
+              "RelativeToolTip": "5.const\u9650\u5B9A\u7B26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T02:07:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4.\u5B57\u7B26\u578B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\4.\u5B57\u7B26\u578B.cpp",
+              "RelativeDocumentMoniker": "4.\u5B57\u7B26\u578B.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\4.\u5B57\u7B26\u578B.cpp",
+              "RelativeToolTip": "4.\u5B57\u7B26\u578B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T01:41:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3.\u6574\u578B\u5B57\u9762\u503C.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\3.\u6574\u578B\u5B57\u9762\u503C.cpp",
+              "RelativeDocumentMoniker": "3.\u6574\u578B\u5B57\u9762\u503C.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\3.\u6574\u578B\u5B57\u9762\u503C.cpp",
+              "RelativeToolTip": "3.\u6574\u578B\u5B57\u9762\u503C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T01:22:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp",
+              "RelativeDocumentMoniker": "2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp",
+              "RelativeToolTip": "2.\u65E0\u7B26\u53F7\u6574\u578B\u53D8\u91CF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T00:34:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1.\u6574\u578B\u53D8\u91CF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\deal data\\1.\u6574\u578B\u53D8\u91CF.cpp",
+              "RelativeDocumentMoniker": "1.\u6574\u578B\u53D8\u91CF.cpp",
+              "ToolTip": "D:\\cpp.learn\\deal data\\1.\u6574\u578B\u53D8\u91CF.cpp",
+              "RelativeToolTip": "1.\u6574\u578B\u53D8\u91CF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T00:08:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
