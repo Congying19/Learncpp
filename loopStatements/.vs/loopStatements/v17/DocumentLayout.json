@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\loopStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\1.for\u5FAA\u73AF\u5199\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:1.for\u5FAA\u73AF\u5199\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\6.do while \u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:6.do while \u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\4.while\u5FAA\u73AF\u5199\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:4.while\u5FAA\u73AF\u5199\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|D:\\cpp.learn\\loopStatements\\2.\u002B\u002B\u548C--.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50D837A4-A9C3-4EA3-A3A1-E40AD8537839}|loopStatements.vcxproj|solutionrelative:2.\u002B\u002B\u548C--.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp",
+              "RelativeDocumentMoniker": "8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp",
+              "RelativeToolTip": "8.\u5FAA\u73AF\u5D4C\u5957\u4E0E\u4E8C\u7EF4\u6570\u7EC4 .cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T06:52:24.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp",
+              "RelativeDocumentMoniker": "7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp",
+              "RelativeToolTip": "7.\u5FAA\u73AF\u548C\u6587\u672C\u8F93\u5165.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T06:37:41.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6.do while \u5FAA\u73AF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\6.do while \u5FAA\u73AF.cpp",
+              "RelativeDocumentMoniker": "6.do while \u5FAA\u73AF.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\6.do while \u5FAA\u73AF.cpp",
+              "RelativeToolTip": "6.do while \u5FAA\u73AF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T06:31:28.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp",
+              "RelativeDocumentMoniker": "5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp",
+              "RelativeToolTip": "5.\u7F16\u5199\u5EF6\u65F6\u5FAA\u73AF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T06:16:08.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4.while\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\4.while\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "RelativeDocumentMoniker": "4.while\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\4.while\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "RelativeToolTip": "4.while\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T05:56:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp",
+              "RelativeDocumentMoniker": "3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp",
+              "RelativeToolTip": "3.\u9017\u53F7\u8868\u8FBE\u5F0F.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T05:48:22.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2.\u002B\u002B\u548C--.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\2.\u002B\u002B\u548C--.cpp",
+              "RelativeDocumentMoniker": "2.\u002B\u002B\u548C--.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\2.\u002B\u002B\u548C--.cpp",
+              "RelativeToolTip": "2.\u002B\u002B\u548C--.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T05:34:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.for\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\loopStatements\\1.for\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "RelativeDocumentMoniker": "1.for\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "ToolTip": "D:\\cpp.learn\\loopStatements\\1.for\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "RelativeToolTip": "1.for\u5FAA\u73AF\u5199\u6CD5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T05:23:13.845Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
