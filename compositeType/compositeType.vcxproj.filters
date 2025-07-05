@@ -33,5 +33,17 @@
     <ClCompile Include="6.枚举.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.指针基本原理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.使用new创建指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.使用new创建动态数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.指针和字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
