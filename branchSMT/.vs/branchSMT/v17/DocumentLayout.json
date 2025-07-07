@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\branchSMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|D:\\cpp.learn\\branchSMT\\4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|solutionrelative:4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|D:\\cpp.learn\\branchSMT\\3.switch\u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|solutionrelative:3.switch\u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|D:\\cpp.learn\\branchSMT\\1.if \u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|solutionrelative:1.if \u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|D:\\cpp.learn\\branchSMT\\2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41B84986-5CE3-4858-95D3-0DA727E367B7}|branchSMT.vcxproj|solutionrelative:2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\branchSMT\\4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp",
+              "RelativeDocumentMoniker": "4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp",
+              "ToolTip": "D:\\cpp.learn\\branchSMT\\4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp",
+              "RelativeToolTip": "4.\u8BFB\u53D6\u6570\u5B57\u7684\u5FAA\u73AF.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T00:42:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.switch\u8BED\u53E5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\branchSMT\\3.switch\u8BED\u53E5.cpp",
+              "RelativeDocumentMoniker": "3.switch\u8BED\u53E5.cpp",
+              "ToolTip": "D:\\cpp.learn\\branchSMT\\3.switch\u8BED\u53E5.cpp",
+              "RelativeToolTip": "3.switch\u8BED\u53E5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T08:08:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\branchSMT\\2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp",
+              "RelativeDocumentMoniker": "2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp",
+              "ToolTip": "D:\\cpp.learn\\branchSMT\\2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp",
+              "RelativeToolTip": "2.\u903B\u8F91\u8868\u8FBE\u5F0F.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T08:00:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.if \u8BED\u53E5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\branchSMT\\1.if \u8BED\u53E5.cpp",
+              "RelativeDocumentMoniker": "1.if \u8BED\u53E5.cpp",
+              "ToolTip": "D:\\cpp.learn\\branchSMT\\1.if \u8BED\u53E5.cpp",
+              "RelativeToolTip": "1.if \u8BED\u53E5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-05T07:51:53.906Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
