@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\memoryModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\namessp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:namessp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\namesp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:namesp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\namesp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:namesp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\8.\u540D\u79F0\u7A7A\u95F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:8.\u540D\u79F0\u7A7A\u95F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\7.\u52A8\u6001\u5206\u914D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:7.\u52A8\u6001\u5206\u914D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\3.\u5B58\u50A8\u6301\u7EED\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:3.\u5B58\u50A8\u6301\u7EED\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\1.coordin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:1.coordin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\1.main\u4E3B\u7A0B\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:1.main\u4E3B\u7A0B\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|D:\\cpp.learn\\memoryModel\\2.\u51FD\u6570\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984AC2E6-3F25-460D-8393-DBE54D3007CD}|memoryModel.vcxproj|solutionrelative:2.\u51FD\u6570\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "namessp.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\namessp.cpp",
+              "RelativeDocumentMoniker": "namessp.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\namessp.cpp",
+              "RelativeToolTip": "namessp.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T10:13:19.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "namesp.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\namesp.cpp",
+              "RelativeDocumentMoniker": "namesp.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\namesp.cpp",
+              "RelativeToolTip": "namesp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T09:55:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "namesp.h",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\namesp.h",
+              "RelativeDocumentMoniker": "namesp.h",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\namesp.h",
+              "RelativeToolTip": "namesp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T09:48:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "8.\u540D\u79F0\u7A7A\u95F4.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\8.\u540D\u79F0\u7A7A\u95F4.cpp",
+              "RelativeDocumentMoniker": "8.\u540D\u79F0\u7A7A\u95F4.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\8.\u540D\u79F0\u7A7A\u95F4.cpp",
+              "RelativeToolTip": "8.\u540D\u79F0\u7A7A\u95F4.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T07:44:57.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "7.\u52A8\u6001\u5206\u914D.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\7.\u52A8\u6001\u5206\u914D.cpp",
+              "RelativeDocumentMoniker": "7.\u52A8\u6001\u5206\u914D.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\7.\u52A8\u6001\u5206\u914D.cpp",
+              "RelativeToolTip": "7.\u52A8\u6001\u5206\u914D.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T07:19:14.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp",
+              "RelativeDocumentMoniker": "6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp",
+              "RelativeToolTip": "6.\u8BF4\u660E\u7B26\u548C\u9650\u5B9A\u7B26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T06:52:56.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp",
+              "RelativeDocumentMoniker": "5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp",
+              "RelativeToolTip": "5.\u9759\u6001\u6301\u7EED\u53D8\u91CF.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T05:59:19.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp",
+              "RelativeDocumentMoniker": "4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp",
+              "RelativeToolTip": "4.\u81EA\u52A8\u5B58\u50A8\u8FDE\u7EED\u6027.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T05:37:47.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3.\u5B58\u50A8\u6301\u7EED\u6027.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\3.\u5B58\u50A8\u6301\u7EED\u6027.cpp",
+              "RelativeDocumentMoniker": "3.\u5B58\u50A8\u6301\u7EED\u6027.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\3.\u5B58\u50A8\u6301\u7EED\u6027.cpp",
+              "RelativeToolTip": "3.\u5B58\u50A8\u6301\u7EED\u6027.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T05:03:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "1.main\u4E3B\u7A0B\u5E8F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\1.main\u4E3B\u7A0B\u5E8F.cpp",
+              "RelativeDocumentMoniker": "1.main\u4E3B\u7A0B\u5E8F.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\1.main\u4E3B\u7A0B\u5E8F.cpp",
+              "RelativeToolTip": "1.main\u4E3B\u7A0B\u5E8F.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T03:04:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2.\u51FD\u6570\u6587\u4EF6.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\2.\u51FD\u6570\u6587\u4EF6.cpp",
+              "RelativeDocumentMoniker": "2.\u51FD\u6570\u6587\u4EF6.cpp",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\2.\u51FD\u6570\u6587\u4EF6.cpp",
+              "RelativeToolTip": "2.\u51FD\u6570\u6587\u4EF6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T03:10:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1.coordin.h",
+              "DocumentMoniker": "D:\\cpp.learn\\memoryModel\\1.coordin.h",
+              "RelativeDocumentMoniker": "1.coordin.h",
+              "ToolTip": "D:\\cpp.learn\\memoryModel\\1.coordin.h",
+              "RelativeToolTip": "1.coordin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T02:46:31.157Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
