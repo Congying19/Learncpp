@@ -1,0 +1,5 @@
+﻿  randwalk.cpp
+D:\cpp.learn\useClass\randwalk.cpp(9,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vector.cpp
+  正在生成代码...
+  useClass.vcxproj -> D:\cpp.learn\useClass\x64\Debug\useClass.exe
