@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\InheritClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\usedma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:usedma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\dma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:dma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\dma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:dma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\brass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:brass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\\u7EE7\u627F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:\u7EE7\u627F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\\u62BD\u8C61\u57FA\u7C7B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:\u62BD\u8C61\u57FA\u7C7B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\\u8BBF\u95EE\u6743\u9650protected.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:\u8BBF\u95EE\u6743\u9650protected.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\\u865A\u65B9\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:\u865A\u65B9\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\usebrass2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:usebrass2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\usebrass1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:usebrass1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\brass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:brass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\tabtenn0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:tabtenn0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\usett0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:usett0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|D:\\cpp.learn\\InheritClass\\tabtenn0.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D5C13F-A5B6-4AD7-9305-65D82E6B8183}|InheritClass.vcxproj|solutionrelative:tabtenn0.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usedma.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\usedma.cpp",
+              "RelativeDocumentMoniker": "usedma.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\usedma.cpp",
+              "RelativeToolTip": "usedma.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T04:08:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dma.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\dma.cpp",
+              "RelativeDocumentMoniker": "dma.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\dma.cpp",
+              "RelativeToolTip": "dma.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T02:54:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dma.h",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\dma.h",
+              "RelativeDocumentMoniker": "dma.h",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\dma.h",
+              "RelativeToolTip": "dma.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T02:44:08.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u62BD\u8C61\u57FA\u7C7B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\\u62BD\u8C61\u57FA\u7C7B.cpp",
+              "RelativeDocumentMoniker": "\u62BD\u8C61\u57FA\u7C7B.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\\u62BD\u8C61\u57FA\u7C7B.cpp",
+              "RelativeToolTip": "\u62BD\u8C61\u57FA\u7C7B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T01:56:50.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u8BBF\u95EE\u6743\u9650protected.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\\u8BBF\u95EE\u6743\u9650protected.cpp",
+              "RelativeDocumentMoniker": "\u8BBF\u95EE\u6743\u9650protected.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\\u8BBF\u95EE\u6743\u9650protected.cpp",
+              "RelativeToolTip": "\u8BBF\u95EE\u6743\u9650protected.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T01:48:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u865A\u65B9\u6CD5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\\u865A\u65B9\u6CD5.cpp",
+              "RelativeDocumentMoniker": "\u865A\u65B9\u6CD5.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\\u865A\u65B9\u6CD5.cpp",
+              "RelativeToolTip": "\u865A\u65B9\u6CD5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T01:32:14.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "usebrass2.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\usebrass2.cpp",
+              "RelativeDocumentMoniker": "usebrass2.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\usebrass2.cpp",
+              "RelativeToolTip": "usebrass2.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T00:57:34.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "usebrass1.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\usebrass1.cpp",
+              "RelativeDocumentMoniker": "usebrass1.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\usebrass1.cpp",
+              "RelativeToolTip": "usebrass1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T00:44:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "brass.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\brass.cpp",
+              "RelativeDocumentMoniker": "brass.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\brass.cpp",
+              "RelativeToolTip": "brass.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T11:15:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "brass.h",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\brass.h",
+              "RelativeDocumentMoniker": "brass.h",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\brass.h",
+              "RelativeToolTip": "brass.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T09:44:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u7EE7\u627F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\\u7EE7\u627F.cpp",
+              "RelativeDocumentMoniker": "\u7EE7\u627F.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\\u7EE7\u627F.cpp",
+              "RelativeToolTip": "\u7EE7\u627F.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T09:29:20.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "usett0.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\usett0.cpp",
+              "RelativeDocumentMoniker": "usett0.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\usett0.cpp",
+              "RelativeToolTip": "usett0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:10:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tabtenn0.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\tabtenn0.cpp",
+              "RelativeDocumentMoniker": "tabtenn0.cpp",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\tabtenn0.cpp",
+              "RelativeToolTip": "tabtenn0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:05:40.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tabtenn0.h",
+              "DocumentMoniker": "D:\\cpp.learn\\InheritClass\\tabtenn0.h",
+              "RelativeDocumentMoniker": "tabtenn0.h",
+              "ToolTip": "D:\\cpp.learn\\InheritClass\\tabtenn0.h",
+              "RelativeToolTip": "tabtenn0.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:55:27.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
