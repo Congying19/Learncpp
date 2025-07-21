@@ -1,0 +1,23 @@
+﻿  tempmemb.cpp
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244: “return”: 从“V”转换到“U”，可能丢失数据
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         with
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         [
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:             V=double
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         ]
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         and
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         [
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:             U=int
+D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56): warning C4244:         ]
+      D:\cpp.learn\codeUseAgain\tempmemb.cpp(28,56):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\cpp.learn\codeUseAgain\tempmemb.cpp(38,14):
+          查看对正在编译的函数 模板 实例化“U beta<double>::blab<int>(U,T)”的引用
+          with
+          [
+              U=int,
+              T=double
+          ]
+              D:\cpp.learn\codeUseAgain\tempmemb.cpp(38,28):
+              请参阅 "main" 中对 "beta<double>::blab" 的第一个引用
+  
+  codeUseAgain.vcxproj -> D:\cpp.learn\codeUseAgain\x64\Debug\codeUseAgain.exe
