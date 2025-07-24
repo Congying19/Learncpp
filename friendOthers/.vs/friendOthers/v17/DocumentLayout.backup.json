@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\friendOthers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\RTTI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:RTTI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\rtti2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:rtti2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\newexcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:newexcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\sales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:sales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\use_tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:use_tv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\error1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:error1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\error5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:error5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\use_sales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:use_sales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\sales.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:sales.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\nested.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:nested.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\queuetp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:queuetp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\exc_mean.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:exc_mean.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\exception\u7C7B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:exception\u7C7B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\tv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:tv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\error4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:error4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\error3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:error3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\error2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:error2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
+              "RelativeDocumentMoniker": "\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
+              "RelativeToolTip": "\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T12:55:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rtti2.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\rtti2.cpp",
+              "RelativeDocumentMoniker": "rtti2.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\rtti2.cpp",
+              "RelativeToolTip": "rtti2.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T12:45:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rtti1.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\rtti1.cpp",
+              "RelativeDocumentMoniker": "rtti1.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\rtti1.cpp",
+              "RelativeToolTip": "rtti1.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T12:02:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RTTI.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\RTTI.cpp",
+              "RelativeDocumentMoniker": "RTTI.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\RTTI.cpp",
+              "RelativeToolTip": "RTTI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T11:31:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
+              "RelativeDocumentMoniker": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
+              "RelativeToolTip": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T10:01:58.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "use_sales.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\use_sales.cpp",
+              "RelativeDocumentMoniker": "use_sales.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\use_sales.cpp",
+              "RelativeToolTip": "use_sales.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T09:43:16.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sales.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\sales.cpp",
+              "RelativeDocumentMoniker": "sales.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\sales.cpp",
+              "RelativeToolTip": "sales.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T09:06:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sales.h",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\sales.h",
+              "RelativeDocumentMoniker": "sales.h",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\sales.h",
+              "RelativeToolTip": "sales.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T08:45:56.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "newexcp.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\newexcp.cpp",
+              "RelativeDocumentMoniker": "newexcp.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\newexcp.cpp",
+              "RelativeToolTip": "newexcp.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T14:30:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "exception\u7C7B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\exception\u7C7B.cpp",
+              "RelativeDocumentMoniker": "exception\u7C7B.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\exception\u7C7B.cpp",
+              "RelativeToolTip": "exception\u7C7B.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T14:12:28.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "error5.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\error5.cpp",
+              "RelativeDocumentMoniker": "error5.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\error5.cpp",
+              "RelativeToolTip": "error5.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvxIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T13:23:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "error4.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\error4.cpp",
+              "RelativeDocumentMoniker": "error4.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\error4.cpp",
+              "RelativeToolTip": "error4.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T12:52:51.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "exc_mean.h",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\exc_mean.h",
+              "RelativeDocumentMoniker": "exc_mean.h",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\exc_mean.h",
+              "RelativeToolTip": "exc_mean.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-23T12:39:34.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "error3.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\error3.cpp",
+              "RelativeDocumentMoniker": "error3.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\error3.cpp",
+              "RelativeToolTip": "error3.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T11:14:16.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "error2.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\error2.cpp",
+              "RelativeDocumentMoniker": "error2.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\error2.cpp",
+              "RelativeToolTip": "error2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T10:37:08.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "error1.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\error1.cpp",
+              "RelativeDocumentMoniker": "error1.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\error1.cpp",
+              "RelativeToolTip": "error1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T10:23:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nested.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\nested.cpp",
+              "RelativeDocumentMoniker": "nested.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\nested.cpp",
+              "RelativeToolTip": "nested.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T10:00:58.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "use_tv.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\use_tv.cpp",
+              "RelativeDocumentMoniker": "use_tv.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\use_tv.cpp",
+              "RelativeToolTip": "use_tv.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-21T13:24:33.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "queuetp.h",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\queuetp.h",
+              "RelativeDocumentMoniker": "queuetp.h",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\queuetp.h",
+              "RelativeToolTip": "queuetp.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-21T13:58:11.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tv.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\tv.cpp",
+              "RelativeDocumentMoniker": "tv.cpp",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\tv.cpp",
+              "RelativeToolTip": "tv.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-21T13:08:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tv.h",
+              "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\tv.h",
+              "RelativeDocumentMoniker": "tv.h",
+              "ToolTip": "D:\\cpp.learn\\friendOthers\\tv.h",
+              "RelativeToolTip": "tv.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-21T12:05:03.223Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  RTTI.cpp
+  rtti2.cpp
+D:\cpp.learn\friendOthers\rtti2.cpp(45,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  friendOthers.vcxproj -> D:\cpp.learn\friendOthers\x64\Debug\friendOthers.exe
