@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\cpp.learn\\friendOthers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\rtti2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:rtti2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|solutionrelative:rtti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BAAF4A3-F645-40F6-972B-DBA92CE38188}|friendOthers.vcxproj|D:\\cpp.learn\\friendOthers\\newexcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -94,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
               "RelativeDocumentMoniker": "\u7C7B\u578B\u8F6C\u6362\u8FD0\u7B97\u7B26.cpp",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "rtti2.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\rtti2.cpp",
               "RelativeDocumentMoniker": "rtti2.cpp",
@@ -119,25 +119,24 @@
               "RelativeToolTip": "rtti2.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T12:45:20.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T12:45:20.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "rtti1.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\rtti1.cpp",
               "RelativeDocumentMoniker": "rtti1.cpp",
               "ToolTip": "D:\\cpp.learn\\friendOthers\\rtti1.cpp",
               "RelativeToolTip": "rtti1.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv0IAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T12:02:27.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RTTI.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\RTTI.cpp",
               "RelativeDocumentMoniker": "RTTI.cpp",
@@ -145,12 +144,11 @@
               "RelativeToolTip": "RTTI.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T11:31:05.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T11:31:05.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\friendOthers\\\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
               "RelativeDocumentMoniker": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
@@ -158,8 +156,7 @@
               "RelativeToolTip": "\u5F02\u5E38\u8FF7\u5931\u65B9\u5411.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T10:01:58.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T10:01:58.221Z"
             },
             {
               "$type": "Document",
@@ -183,8 +180,7 @@
               "RelativeToolTip": "sales.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAswBEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T09:06:48.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T09:06:48.411Z"
             },
             {
               "$type": "Document",
@@ -208,8 +204,7 @@
               "RelativeToolTip": "newexcp.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-23T14:30:20.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:30:20.76Z"
             },
             {
               "$type": "Document",
@@ -233,8 +228,7 @@
               "RelativeToolTip": "error5.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAADwvxIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-23T13:23:54.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:23:54.293Z"
             },
             {
               "$type": "Document",
@@ -294,8 +288,7 @@
               "RelativeToolTip": "error1.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-23T10:23:22.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T10:23:22.667Z"
             },
             {
               "$type": "Document",
@@ -319,8 +312,7 @@
               "RelativeToolTip": "use_tv.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-21T13:24:33.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T13:24:33.789Z"
             },
             {
               "$type": "Document",
@@ -344,8 +336,7 @@
               "RelativeToolTip": "tv.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-21T13:08:53.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T13:08:53.731Z"
             },
             {
               "$type": "Document",
