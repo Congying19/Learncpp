@@ -8,7 +8,7 @@
 	对于string对象，有2两种：
 	string stuff;
 	cin>>stuff;
-	getline(stuff,':')//读到':'，但是抛弃':'，默认是换行符
+	getline(cin,stuff)
 	//如果指定分界符之后，换行符将被视为常规字符
 
 	区别：1.string会自动调整大小

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\cpp.learn\\string\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|D:\\cpp.learn\\string\\2string\u7C7B\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|solutionrelative:2string\u7C7B\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|D:\\cpp.learn\\string\\\u5176\u4ED6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|solutionrelative:\u5176\u4ED6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|D:\\cpp.learn\\string\\1\u6784\u9020\u5B57\u7B26\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|solutionrelative:1\u6784\u9020\u5B57\u7B26\u4E32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|D:\\cpp.learn\\string\\2string\u7C7B\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BA91C0BD-A332-4243-A698-C94F093CA662}|string.vcxproj|solutionrelative:2string\u7C7B\u8F93\u5165.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\u5176\u4ED6.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\string\\\u5176\u4ED6.cpp",
               "RelativeDocumentMoniker": "\u5176\u4ED6.cpp",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "3\u4F7F\u7528\u5B57\u7B26\u4E32.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\string\\3\u4F7F\u7528\u5B57\u7B26\u4E32.cpp",
               "RelativeDocumentMoniker": "3\u4F7F\u7528\u5B57\u7B26\u4E32.cpp",
@@ -51,25 +51,24 @@
               "RelativeToolTip": "3\u4F7F\u7528\u5B57\u7B26\u4E32.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAnwBIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T07:13:29.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:13:29.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "2string\u7C7B\u8F93\u5165.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\string\\2string\u7C7B\u8F93\u5165.cpp",
               "RelativeDocumentMoniker": "2string\u7C7B\u8F93\u5165.cpp",
               "ToolTip": "D:\\cpp.learn\\string\\2string\u7C7B\u8F93\u5165.cpp",
               "RelativeToolTip": "2string\u7C7B\u8F93\u5165.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T06:42:21.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "1\u6784\u9020\u5B57\u7B26\u4E32.cpp",
               "DocumentMoniker": "D:\\cpp.learn\\string\\1\u6784\u9020\u5B57\u7B26\u4E32.cpp",
               "RelativeDocumentMoniker": "1\u6784\u9020\u5B57\u7B26\u4E32.cpp",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "1\u6784\u9020\u5B57\u7B26\u4E32.cpp",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T03:04:49.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T03:04:49.306Z"
             },
             {
               "$type": "Bookmark",
