@@ -26,7 +26,7 @@ int main()
 				);
 				用处：用于分别打印一张图里面的不同内容
 			*/
-			putimage(20, 20, 104, 471, &ik_m, 104 * i, 0);
+			putimage(20, 20, 838, 471, &ik_m, 104 * i, 0);
 			FlushBatchDraw();
 			Sleep(200);
 		}
