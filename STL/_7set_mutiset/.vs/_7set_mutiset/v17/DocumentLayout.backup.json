@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\STL\\_7set_mutiset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\7set\u5BB9\u5668\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:7set\u5BB9\u5668\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\6pair\u5BF9\u7EC4\u521B\u5EFA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:6pair\u5BF9\u7EC4\u521B\u5EFA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\5set\u548Cmultiset\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:5set\u548Cmultiset\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\3\u63D2\u5165\u548C\u5220\u9664.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:3\u63D2\u5165\u548C\u5220\u9664.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:2\u5927\u5C0F\u548C\u4EA4\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|D:\\cpp.learn\\STL\\_7set_mutiset\\1\u6784\u9020\u548C\u8D4B\u503C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B569FDB-AC58-45CA-9DD3-33619499AF75}|_7set_mutiset.vcxproj|solutionrelative:1\u6784\u9020\u548C\u8D4B\u503C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7set\u5BB9\u5668\u6392\u5E8F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\7set\u5BB9\u5668\u6392\u5E8F.cpp",
+              "RelativeDocumentMoniker": "7set\u5BB9\u5668\u6392\u5E8F.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\7set\u5BB9\u5668\u6392\u5E8F.cpp",
+              "RelativeToolTip": "7set\u5BB9\u5668\u6392\u5E8F.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:35:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\6pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "RelativeDocumentMoniker": "6pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\6pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "RelativeToolTip": "6pair\u5BF9\u7EC4\u521B\u5EFA.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:33:46.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5set\u548Cmultiset\u533A\u522B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\5set\u548Cmultiset\u533A\u522B.cpp",
+              "RelativeDocumentMoniker": "5set\u548Cmultiset\u533A\u522B.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\5set\u548Cmultiset\u533A\u522B.cpp",
+              "RelativeToolTip": "5set\u548Cmultiset\u533A\u522B.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:28:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "RelativeDocumentMoniker": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "RelativeToolTip": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:26:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "RelativeDocumentMoniker": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "RelativeToolTip": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:23:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "RelativeDocumentMoniker": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "RelativeToolTip": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:19:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1\u6784\u9020\u548C\u8D4B\u503C.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_7set_mutiset\\1\u6784\u9020\u548C\u8D4B\u503C.cpp",
+              "RelativeDocumentMoniker": "1\u6784\u9020\u548C\u8D4B\u503C.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_7set_mutiset\\1\u6784\u9020\u548C\u8D4B\u503C.cpp",
+              "RelativeToolTip": "1\u6784\u9020\u548C\u8D4B\u503C.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:13:05.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

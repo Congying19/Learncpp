@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3set_difference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:3set_difference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2set_union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2set_union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1set_intersection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1set_intersection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2fill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2fill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1accumulate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1accumulate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:4swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3replace_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:3replace_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2replace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2replace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4reverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:4reverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3merge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:3merge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2random_shuffle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2random_shuffle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\6count_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:6count_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\5count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:5count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4binary_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:4binary_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3adjacent_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:3adjacent_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2find_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2find_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:2transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1for_each.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E87B0F9-DAD8-4524-BBE1-AEFACDEF2460}|_10STL\u5E38\u7528\u7B97\u6CD5.vcxproj|solutionrelative:1for_each.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3set_difference.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3set_difference.cpp",
+              "RelativeDocumentMoniker": "3set_difference.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3set_difference.cpp",
+              "RelativeToolTip": "3set_difference.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:43:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2set_union.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2set_union.cpp",
+              "RelativeDocumentMoniker": "2set_union.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2set_union.cpp",
+              "RelativeToolTip": "2set_union.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:42:18.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1set_intersection.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1set_intersection.cpp",
+              "RelativeDocumentMoniker": "1set_intersection.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1set_intersection.cpp",
+              "RelativeToolTip": "1set_intersection.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:39:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2fill.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2fill.cpp",
+              "RelativeDocumentMoniker": "2fill.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2fill.cpp",
+              "RelativeToolTip": "2fill.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:37:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1accumulate.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1accumulate.cpp",
+              "RelativeDocumentMoniker": "1accumulate.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1accumulate.cpp",
+              "RelativeToolTip": "1accumulate.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:36:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4swap.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4swap.cpp",
+              "RelativeDocumentMoniker": "4swap.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4swap.cpp",
+              "RelativeToolTip": "4swap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:33:06.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3replace_if.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3replace_if.cpp",
+              "RelativeDocumentMoniker": "3replace_if.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3replace_if.cpp",
+              "RelativeToolTip": "3replace_if.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:06:39.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2replace.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2replace.cpp",
+              "RelativeDocumentMoniker": "2replace.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2replace.cpp",
+              "RelativeToolTip": "2replace.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:04:55.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1copy.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1copy.cpp",
+              "RelativeDocumentMoniker": "1copy.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1copy.cpp",
+              "RelativeToolTip": "1copy.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:02:07.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "4reverse.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4reverse.cpp",
+              "RelativeDocumentMoniker": "4reverse.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4reverse.cpp",
+              "RelativeToolTip": "4reverse.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T06:00:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "3merge.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3merge.cpp",
+              "RelativeDocumentMoniker": "3merge.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3merge.cpp",
+              "RelativeToolTip": "3merge.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:58:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2random_shuffle.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2random_shuffle.cpp",
+              "RelativeDocumentMoniker": "2random_shuffle.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2random_shuffle.cpp",
+              "RelativeToolTip": "2random_shuffle.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:55:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1sort.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1sort.cpp",
+              "RelativeDocumentMoniker": "1sort.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1sort.cpp",
+              "RelativeToolTip": "1sort.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:53:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "6count_if.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\6count_if.cpp",
+              "RelativeDocumentMoniker": "6count_if.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\6count_if.cpp",
+              "RelativeToolTip": "6count_if.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:51:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "5count.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\5count.cpp",
+              "RelativeDocumentMoniker": "5count.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\5count.cpp",
+              "RelativeToolTip": "5count.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:48:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "4binary_find.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4binary_find.cpp",
+              "RelativeDocumentMoniker": "4binary_find.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\4binary_find.cpp",
+              "RelativeToolTip": "4binary_find.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:46:18.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "3adjacent_find.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3adjacent_find.cpp",
+              "RelativeDocumentMoniker": "3adjacent_find.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\3adjacent_find.cpp",
+              "RelativeToolTip": "3adjacent_find.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:42:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "2find_if.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2find_if.cpp",
+              "RelativeDocumentMoniker": "2find_if.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2find_if.cpp",
+              "RelativeToolTip": "2find_if.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T05:38:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "1find.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1find.cpp",
+              "RelativeDocumentMoniker": "1find.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1find.cpp",
+              "RelativeToolTip": "1find.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T14:32:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "2transform.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2transform.cpp",
+              "RelativeDocumentMoniker": "2transform.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\2transform.cpp",
+              "RelativeToolTip": "2transform.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T14:27:10.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "1for_each.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1for_each.cpp",
+              "RelativeDocumentMoniker": "1for_each.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_10STL\u5E38\u7528\u7B97\u6CD5\\1for_each.cpp",
+              "RelativeToolTip": "1for_each.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T14:22:45.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

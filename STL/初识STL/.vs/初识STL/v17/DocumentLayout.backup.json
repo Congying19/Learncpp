@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|solutionrelative:\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|solutionrelative:vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|solutionrelative:vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\STL\u521D\u8BC6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82B3FA23-82CE-4517-BF98-8600E36F1165}|\u521D\u8BC6STL.vcxproj|solutionrelative:STL\u521D\u8BC6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "RelativeToolTip": "\u5BB9\u5668\u5D4C\u5957\u5BB9\u5668.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T04:03:29.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp",
+              "RelativeDocumentMoniker": "vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp",
+              "RelativeToolTip": "vector\u5B58\u653E\u81EA\u5B9A\u4E49\u7C7B\u578B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T03:58:45.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp",
+              "RelativeDocumentMoniker": "vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp",
+              "RelativeToolTip": "vector\u5B58\u653E\u57FA\u672C\u7C7B\u578B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T03:18:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "STL\u521D\u8BC6.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\STL\u521D\u8BC6.cpp",
+              "RelativeDocumentMoniker": "STL\u521D\u8BC6.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\\u521D\u8BC6STL\\STL\u521D\u8BC6.cpp",
+              "RelativeToolTip": "STL\u521D\u8BC6.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T03:06:09.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

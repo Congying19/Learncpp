@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp.learn\\STL\\_8map_multimap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|D:\\cpp.learn\\STL\\_8map_multimap\\5\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|solutionrelative:5\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|D:\\cpp.learn\\STL\\_8map_multimap\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|solutionrelative:4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|D:\\cpp.learn\\STL\\_8map_multimap\\3\u63D2\u5165\u548C\u5220\u9664.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|solutionrelative:3\u63D2\u5165\u548C\u5220\u9664.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|D:\\cpp.learn\\STL\\_8map_multimap\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|solutionrelative:2\u5927\u5C0F\u548C\u4EA4\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|D:\\cpp.learn\\STL\\_8map_multimap\\1\u8D4B\u503C\u548C\u6784\u9020.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77A41F4D-3284-4E3D-B82B-1E59620DE2C2}|_8map_multimap.vcxproj|solutionrelative:1\u8D4B\u503C\u548C\u6784\u9020.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5\u6392\u5E8F.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_8map_multimap\\5\u6392\u5E8F.cpp",
+              "RelativeDocumentMoniker": "5\u6392\u5E8F.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_8map_multimap\\5\u6392\u5E8F.cpp",
+              "RelativeToolTip": "5\u6392\u5E8F.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T13:56:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_8map_multimap\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "RelativeDocumentMoniker": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_8map_multimap\\4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "RelativeToolTip": "4\u67E5\u627E\u548C\u7EDF\u8BA1.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T13:53:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_8map_multimap\\3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "RelativeDocumentMoniker": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_8map_multimap\\3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "RelativeToolTip": "3\u63D2\u5165\u548C\u5220\u9664.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T13:51:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_8map_multimap\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "RelativeDocumentMoniker": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_8map_multimap\\2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "RelativeToolTip": "2\u5927\u5C0F\u548C\u4EA4\u6362.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T13:48:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1\u8D4B\u503C\u548C\u6784\u9020.cpp",
+              "DocumentMoniker": "D:\\cpp.learn\\STL\\_8map_multimap\\1\u8D4B\u503C\u548C\u6784\u9020.cpp",
+              "RelativeDocumentMoniker": "1\u8D4B\u503C\u548C\u6784\u9020.cpp",
+              "ToolTip": "D:\\cpp.learn\\STL\\_8map_multimap\\1\u8D4B\u503C\u548C\u6784\u9020.cpp",
+              "RelativeToolTip": "1\u8D4B\u503C\u548C\u6784\u9020.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T13:43:42.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
